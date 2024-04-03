@@ -4,7 +4,7 @@ Python AI development - Assignment1
 ## How to play
 The game is played versus the computer.
 
-Begin with chosing either rock, paper or scissor when prompted.
+Begin with choosing either rock, paper or scissor when prompted.
 
 Watch the output to see if you won, tied or lost versus the computer.
 
